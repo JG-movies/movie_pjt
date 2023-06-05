@@ -1,27 +1,36 @@
 # final-pjt
 
 
-
 ## Getting started
+- 개개인의 특성에 맞추어 검색을 할 수 있는 맞춤형 검색엔진을 구현하고자 JG movies를 기획하고 영화 웹사이트를 구현해보았다.
+
+## Making Project
 
 In back-end with DRF,
-
+```
 django-admin startproject final_pjt .
 python manage.py startapp movies
 python manage.py startapp accounts
+```
 
 In front-end with Vue,
+```
 npm install -g @vue/cli
 vue create final-pjt-front
 vue add vuex
 vue add router
+```
 
+## Need to install requirements
 
+```
 npm install axios
 
 npm install vuex-persistedstate
+```
 
 vue-bootstrap 설치하기
+
 ```javascript
 설치하기
 $ npm install vue bootstrap-vue bootstrap
