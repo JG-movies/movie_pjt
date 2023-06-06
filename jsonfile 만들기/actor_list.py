@@ -2,7 +2,7 @@ import requests
 import json
 
 
-TMDB_API_KEY ='cec1ac30c15be1288013fffafcfe2c04'
+TMDB_API_KEY ='***************************'
 
 
 def get_actor_datas():
