@@ -1,8 +1,46 @@
-# final-pjt
+# final-pjt JG-movies
+
+[before_start](final-pjt-front/src/assets/startvideo.mp4)
+
+![movie_page](final-pjt-front/src/assets/PPT_first.PNG)
 
 ## 프로젝트 
 
 영화 추천 및 커뮤니티 웹 페이지 제작
+
+
+#### 사용 기술 스택
+
+<div align="center">
+
+<br>
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=white">
+</br>
+<div>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+</div>
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<div>
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</div>
+</div>
+
+
+
+## ERD
+
+![movie_page](final-pjt-front/src/assets/movie_erd.PNG)
+
+## Architecture
+
+![movie_page](final-pjt-front/src/assets/page.PNG)
+![movie_page](final-pjt-front/src/assets/pages.PNG)
 
 ## 주요 기능
 
@@ -53,6 +91,13 @@
 
 ## Getting started
 - 개개인의 특성에 맞추어 검색을 할 수 있는 맞춤형 검색엔진을 구현하고자 JG movies를 기획하고 영화 웹사이트를 구현해보았다.
+
+
+
+
+
+
+
 
 ## Making Project
 
